@@ -3,6 +3,7 @@ digital portfolio created using html, css, and javascript
 testing vim mode insert
 
 run "npm run deploy" to deplay changes to git website
+### 'npm start' for local host
 
 
 # Getting Started with Create React App
